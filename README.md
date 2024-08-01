@@ -2,7 +2,8 @@
 
 
 **MarLiz-SanCam/MarLiz-Sancam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![DALL·E 2022-12-10 17 49 11 - Gato blanco con el ojo izquierdo verde y el ojo derecho azul, con una sudadera de warframe puesta, sentado frente a su escritorio, con una taza de caf](https://github.com/user-attachments/assets/58b55c0e-566d-46c6-813b-0dae7f706748)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning python 
