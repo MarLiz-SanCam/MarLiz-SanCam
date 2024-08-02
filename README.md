@@ -7,12 +7,12 @@
 
 ## 🙋‍♀️ Who am I?
 
-Hi, My name is **MarLiz**, I'm a CSE student 23 years old, from 🇲🇽 _Mexico_ 🇲🇽 also a passionate sofrware developer focusing on cross-platform development using flutter and creating excepcional ✨**user experiences**✨. 
+Hi, My name is **MarLiz**, I'm a CSE student. I'm 23 years old, 📍from _Mexico_ also a passionate sofrware developer focusing on cross-platform development using flutter and creating excepcional ✨**user experiences**✨. 
 
 💌 I love UI/UX design, transforming ideas into functional and visually appealing applications across multiple platforms. 💌
 
 ## 📚 Skills
-I currently speak 3 languages 👇
+🗺 I currently speak 3 languages 👇
 - 🇲🇽 Spanish
 - 🇺🇸 English
 - 🇮🇹 Italian 
@@ -51,15 +51,13 @@ Those are some of the programming lenguajes that I use and skills I specialize i
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </p>
 
+
+
+<details>
+  <summary> 📨 How to reach me: </summary>
+  <p align='center'>
+  <a href="https://github.com/MarLiz-SanCam">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</details>
 ## 📨 How to reach me:
-
-**This a new change** as a✨ _Something changed here_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning python 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
