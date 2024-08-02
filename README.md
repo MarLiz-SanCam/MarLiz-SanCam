@@ -46,8 +46,10 @@ Those are some of the programming lenguajes and technologies that I use:
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
 </p>
 
-<img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=MarLiz-SanCam&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-<img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarLiz-SanCam&layout=compact&theme=gotham&langs_count=8"/>
+<p align='center'>
+    <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=MarLiz-SanCam&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+    <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarLiz-SanCam&layout=compact&theme=gotham&langs_count=8"/>
+</p>
 
 ## 📨 How to reach me:
 <p align='left'>
