@@ -12,7 +12,8 @@ Hi, My name is MarLiz, I'm a CSE student 23 years old, from 🇲🇽 _Mexico_ �
 i love UI/UX design, transforming ideas into functional and visually appealing applications across multiple platforms.
 
 ## Skills
-I currently speak 3 languages 👇\n
+I currently speak 3 languages 👇
+
 🇲🇽 Spanish
 🇺🇸 English
 🇮🇹 Italian 
