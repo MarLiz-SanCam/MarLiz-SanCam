@@ -23,7 +23,7 @@ Hi, My name is **MarLiz**, I'm a CSE student. I'm 23 years old, 📍from _Mexico
 </p>
 
 <p align='center'>
-    <img style="height:100%;width:50%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarLiz-SanCam&langs_count=10&layout=compact&title_color=2E0F13&bg_color=F8EDE1&border_color=2E0F13&text_color=09A323E&border_radius=10"/>
+    <img style="height:100%;width:70%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarLiz-SanCam&langs_count=10&layout=compact&title_color=2E0F13&bg_color=F8EDE1&border_color=2E0F13&text_color=09A323E&border_radius=10"/>
 </p>
 Those are some of the programming lenguajes and technologies that I use:
 <p align='center'>
