@@ -4,10 +4,9 @@
 
 ![Mar Liz DEV](https://github.com/user-attachments/assets/91e187bc-fa48-4098-a4c7-a5a9a86e898b)
 
-
 ## 🙋‍♀️ Who am I?
 
-Hi, My name is **MarLiz**, I'm a CSE student. I'm 23 years old, 📍from _Mexico_ also a passionate sofrware developer focusing on cross-platform development using flutter and creating excepcional ✨**user experiences**✨. 
+Hi, My name is **MarLiz**, I'm a CSE student. I'm 23 years old, 📍from _Mexico_. I'm a passionate sofrware developer focusing on cross-platform development using flutter and creating excepcional ✨**user experiences**✨. 
 
 💌 I love UI/UX design, transforming ideas into functional and visually appealing applications across multiple platforms. 💌
 
@@ -43,11 +42,11 @@ Those are some of the programming lenguajes and technologies that I use:
 <p align='center'>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/lenovo%20-E2231A?style=for-the-badge&logo=lenovo&logoColor=white">
 </p>
-
 <p align='center'>
-    <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=MarLiz-SanCam&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
     <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarLiz-SanCam&layout=compact&theme=gotham&langs_count=8"/>
 </p>
 
