@@ -46,21 +46,15 @@ Those are some of the programming lenguajes and technologies that I use:
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
 </p>
 
-#### Group 📞
-<p align='center'>
-  
-</p>
+<img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=MarLiz-SanCam&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+<img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarLiz-SanCam&layout=compact&theme=gotham&langs_count=8"/>
 
-<details>
-  <summary> 📨 How to reach me: </summary>
-  <p align='left'>
-  - <a href="https://github.com/MarLiz-SanCam">
+## 📨 How to reach me:
+<p align='left'>
+ <a href="https://github.com/MarLiz-SanCam">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
-  - </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/marliz-santinicamarena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+ </a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/marliz-santinicamarena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</details>
+ </a>&nbsp;&nbsp;
 
-## How to reach me
-- [![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})](https://www.linkedin.com/in/marliz-santinicamarena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
