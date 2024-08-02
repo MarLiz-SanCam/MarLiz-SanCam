@@ -53,13 +53,13 @@ Those are some of the programming lenguajes that I use and skills I specialize i
 <details>
   <summary> 📨 How to reach me: </summary>
   <p align='left'>
-  <a href="https://github.com/MarLiz-SanCam">
+  - <a href="https://github.com/MarLiz-SanCam">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/MarLiz-SanCam">
+  - </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/marliz-santinicamarena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </details>
 
 ## How to reach me
-- ![{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}](https://www.linkedin.com/in/marliz-santinicamarena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- [![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})](https://www.linkedin.com/in/marliz-santinicamarena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
